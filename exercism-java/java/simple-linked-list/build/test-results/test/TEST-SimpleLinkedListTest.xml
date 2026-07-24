@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SimpleLinkedListTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-07-24T14:50:15.232Z" hostname="GY" time="0.103">
+  <properties/>
+  <testcase name="Create list from array" classname="SimpleLinkedListTest" time="0.082"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
