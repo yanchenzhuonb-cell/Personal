@@ -1,0 +1,15 @@
+# Gradle caches and build output
+**/.gradle/
+**/build/
+
+# IntelliJ
+**/.idea/
+**/*.iml
+**/out/
+
+# Java compiled files
+**/*.class
+
+# OS files
+.DS_Store
+Thumbs.db
