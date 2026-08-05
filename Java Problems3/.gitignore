@@ -1,0 +1,27 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Gradle generated files
+.gradle/
+build/
+
+# Hyperskill-generated descriptions and metadata
+**/task.html
+**/task-info.yaml
+**/task-remote-info.yaml
+.coursecreator/
+.hyperskill/
+course-info.yaml
+
+# Java crash/debug files
+hs_err_pid*
+replay_pid*
+*.hprof
+*.log
+
+# Operating system files
+Thumbs.db
+Desktop.ini
+.DS_Store

@@ -1,0 +1,4 @@
+content:
+  - Type casting
+  - Rounding down a halved float value to an integer
+  - Converting and printing double values as integers
